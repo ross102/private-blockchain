@@ -3,7 +3,7 @@
 1. Cd into project_1_V2_boilerplate directory.
 2. Run `npm install` to install the required packages
 3. After installing the packages, run `node app.js` to start the project.
-   You should see server running on port 8080 in the terminal
+   You should see server running on port 8000 in the terminal
 
 
 ## Understanding the project structure
